@@ -1,0 +1,13 @@
+{
+  "name": "excel-tr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "wsx",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.0.1"
+  }
+}
